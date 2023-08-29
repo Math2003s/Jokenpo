@@ -1,4 +1,3 @@
-// ALuno: Matheus Santos Cardoso Rgm: 29629420
 package Jokenpo;
 import java.util.Scanner;
 
